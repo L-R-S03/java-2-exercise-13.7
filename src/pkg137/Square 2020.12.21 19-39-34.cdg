@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Square">
+  <ClassDiagramComponents>
+    <Class name="Square" package="pkg137" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields>
+        <Field name="side" type="double" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="double" name="side"/>
+        </Constructor>
+        <Constructor visibility="public">
+          <Argument type="String" name="color"/>
+          <Argument type="boolean" name="filled"/>
+          <Argument type="double" name="side"/>
+        </Constructor>
+      </Constructors>
+      <Methods>
+        <Method name="getArea" returnType="double" visibility="public"/>
+        <Method name="getPerimeter" returnType="double" visibility="public"/>
+        <Method name="howToColor" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Colorable">
+  <ClassDiagramComponents>
+    <Interface name="Colorable" package="pkg137" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Methods>
+        <Method name="howToColor" returnType="void" visibility="public"/>
+      </Methods>
+    </Interface>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
